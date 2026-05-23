@@ -2,8 +2,13 @@
 rapport_latex/
 reports/
 sensors/
-tomtom_phuket/
 papiers/
+
+# ── TomTom data (raw + processed, too large) ──────────────────────────────────
+tomtom_phuket/raw_json/
+tomtom_phuket/processed/
+tomtom_phuket/logs/
+tomtom_phuket/data/
 
 # ── Large binary / generated ──────────────────────────────────────────────────
 venv/
