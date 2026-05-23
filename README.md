@@ -1,6 +1,6 @@
 # Explainable LLM Framework for Tourist-Traffic Forecasting in Phuket
 
-**Master's thesis** — Mathieu Zilli (University of Mons / Prince of Songkla University, 2026)
+**Master's thesis** - Mathieu Zilli (University of Mons / Prince of Songkla University, 2026)
 
 Supervisors: Prof. Kwankamon Dittakan (PSU Phuket) · Prof. Saïd Mahmoudi (UMons)
 
@@ -48,7 +48,7 @@ TFE_Phuket/
 │   ├── phuket_master.csv            # Master table: 96 rows × 101 cols (24 months × 4 corridors)
 │   ├── ml_dataset.csv               # ML-ready: 96 rows × 132 cols (with lags + encoding)
 │   ├── ml_train.csv / ml_val.csv / ml_test.csv
-│   ├── phuket_flights_monthly.csv   # AOT official — HKT airport, 2022–2024
+│   ├── phuket_flights_monthly.csv   # AOT official - HKT airport, 2022–2024
 │   ├── phuket_weather_history_2023_2024.csv  # Open-Meteo hourly, 4 locations
 │   ├── phuket_social_trends.csv     # Google Trends weekly, 5 keywords
 │   ├── phuket_calendar_features.csv # Thai holidays + Phuket events
@@ -84,28 +84,28 @@ TFE_Phuket/
 
 ## The four corridors
 
-| ID | Name | Route | Key characteristic |
-|----|------|-------|--------------------|
-| 0 | Airport Road | Route 402 — HKT Airport → Thalang | Main tourist axis, moderate congestion (PTI 2.04) |
-| 1 | Patong Hill | Route 4029 — Kathu → Patong Beach | Most congested at PM peak (PTI 2.39) |
-| 2 | Town → Rawai | Route 4022 — Phuket Town → Rawai Beach | Highest PTI (2.81 at AM peak) |
-| 3 | Bypass Road | Route 4027 — Kathu → Chalong | Baseline reference, off-peak (PTI 1.95) |
+| ID  | Name         | Route                                  | Key characteristic                                |
+| --- | ------------ | -------------------------------------- | ------------------------------------------------- |
+| 0   | Airport Road | Route 402 : HKT Airport → Thalang      | Main tourist axis, moderate congestion (PTI 2.04) |
+| 1   | Patong Hill  | Route 4029 : Kathu → Patong Beach      | Most congested at PM peak (PTI 2.39)              |
+| 2   | Town → Rawai | Route 4022 : Phuket Town → Rawai Beach | Highest PTI (2.81 at AM peak)                     |
+| 3   | Bypass Road  | Route 4027 : Kathu → Chalong           | Baseline reference, off-peak (PTI 1.95)           |
 
 ---
 
 ## Data sources
 
-| Code | Category | Source | Period |
-|------|----------|--------|--------|
-| TT/SPD | Traffic (TTR, speed, PTI) | TomTom MOVE API | Jan 2023 – Dec 2024 |
-| WX | Weather | Open-Meteo archive | 2023–2024 (2022 extrapolated) |
-| FLT | Flight arrivals | AOT annual statistics | 2022–2024 |
-| SOC | Social signal | Google Trends (pytrends) | 2022–2024 |
-| CAL | Calendar | Calendarific + custom events | 2023–2024 |
-| POI | Points of interest | OpenStreetMap / Overpass | Static |
-| SEA | Ferry | Rassada Pier schedules | 2022–2024 |
-| PT | Public transport | Phuket Smart Bus | 2022–2024 |
-| EVT | Local events | Rule-based script | 2023–2024 |
+| Code   | Category                  | Source                       | Period                        |
+| ------ | ------------------------- | ---------------------------- | ----------------------------- |
+| TT/SPD | Traffic (TTR, speed, PTI) | TomTom MOVE API              | Jan 2023 – Dec 2024           |
+| WX     | Weather                   | Open-Meteo archive           | 2023–2024 (2022 extrapolated) |
+| FLT    | Flight arrivals           | AOT annual statistics        | 2022–2024                     |
+| SOC    | Social signal             | Google Trends (pytrends)     | 2022–2024                     |
+| CAL    | Calendar                  | Calendarific + custom events | 2023–2024                     |
+| POI    | Points of interest        | OpenStreetMap / Overpass     | Static                        |
+| SEA    | Ferry                     | Rassada Pier schedules       | 2022–2024                     |
+| PT     | Public transport          | Phuket Smart Bus             | 2022–2024                     |
+| EVT    | Local events              | Rule-based script            | 2023–2024                     |
 
 The master table (`phuket_master.csv`) merges all sources at monthly × corridor granularity: 96 rows, 101 columns, zero missing values.
 
@@ -114,21 +114,21 @@ The master table (`phuket_master.csv`) merges all sources at monthly × corridor
 ## LLM framework
 
 **Base model**: LLaMA 3.1 8B Instruct  
-**Fine-tuning**: LoRA (r=16, α=32, dropout=0.1, target modules: q/k/v/o\_proj)  
-**Hardware**: single RTX 4080 SUPER  
+**Fine-tuning**: LoRA (r=16, α=32, dropout=0.1, target modules: q/k/v/o_proj)  
+**Hardware**: single RTX 4080 SUPER
 
 Each training sample is serialized into a structured natural-language prompt with a `[CONTEXT]` block (weather, flights, trends, calendar, POIs) and a `[HISTORY]` block (3 months of lagged TTR, PTI, speed). The model handles two question types within a single instruction-tuned framework:
 
-- **Forecast** — returns a JSON object with `next_month_am_tt_ratio`
-- **Explanation** — returns a free-text rationale grounded in the prompt context
+- **Forecast** - returns a JSON object with `next_month_am_tt_ratio`
+- **Explanation** - returns a free-text rationale grounded in the prompt context
 
 Three versions reported in the thesis:
 
-| Version | Description | MAE | Ablation fidelity | Grounding |
-|---------|-------------|-----|-------------------|-----------|
-| V4 | Full context, no traffic memory | 0.120 | 70% | 45% |
-| V9 | + 3-month lagged traffic features | 0.131 | 100% | 95% |
-| V10 | + year-over-year and corridor ranking | 0.146 | 100% | 90% |
+| Version | Description                           | MAE   | Ablation fidelity | Grounding |
+| ------- | ------------------------------------- | ----- | ----------------- | --------- |
+| V4      | Full context, no traffic memory       | 0.120 | 70%               | 45%       |
+| V9      | + 3-month lagged traffic features     | 0.131 | 100%              | 95%       |
+| V10     | + year-over-year and corridor ranking | 0.146 | 100%              | 90%       |
 
 **V9 is the recommended version**: best explainability across all three protocol tests (100% ablation fidelity, 100% counterfactual consistency, 95% grounding).
 
@@ -142,9 +142,9 @@ See [`llm/VERSION_SUMMARY.md`](llm/VERSION_SUMMARY.md) for the full version hist
 
 Three protocol-based tests assess whether explanations are faithful, not just fluent:
 
-1. **Ablation fidelity** — remove a key input (e.g., flight arrivals); check that the explanation stops mentioning it
-2. **Counterfactual consistency** — flip a key factor (e.g., high-season → low-season); check that the prediction and direction of reasoning change accordingly
-3. **Grounding** — scan the explanation for claims unsupported by the input context
+1. **Ablation fidelity** - remove a key input (e.g., flight arrivals); check that the explanation stops mentioning it
+2. **Counterfactual consistency** - flip a key factor (e.g., high-season → low-season); check that the prediction and direction of reasoning change accordingly
+3. **Grounding** - scan the explanation for claims unsupported by the input context
 
 All computed automatically via keyword matching and directional-consistency checks on the test set (n=20).
 
