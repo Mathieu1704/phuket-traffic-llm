@@ -72,12 +72,18 @@ TFE_Phuket/
 │       ├── retriever.py             # Retrieval logic + query router
 │       └── prompt_builder.py        # Prompt assembly for chatbot queries
 │
-├── api/                             # Forecasting API (FastAPI)
-│   └── main.py
+├── api/                             # Main FastAPI server (serves the frontend)
+│   └── main.py                      # All endpoints: /chat, /forecast, /explain, /whatif
 │
-└── frontend/                        # Next.js chatbot interface
-    ├── package.json
-    └── next.config.js
+├── frontend/                        # Next.js chatbot interface
+│   ├── package.json
+│   └── next.config.js
+│
+└── tomtom_phuket/                   # TomTom MOVE API pipeline (scripts only, data excluded)
+    ├── config.py                    # 4 corridors, time sets, date ranges, job plan
+    ├── submit_jobs.py               # Submit → poll → download jobs from TomTom MOVE API
+    ├── parse_results.py             # JSON responses → CSV (segments_all, summaries_all)
+    └── requirements.txt
 ```
 
 ---
