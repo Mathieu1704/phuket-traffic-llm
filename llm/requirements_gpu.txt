@@ -1,0 +1,26 @@
+# TFE Phuket — Phase 4 LLM Fine-tuning
+# Install on the GPU machine BEFORE running notebook 06
+#
+# RTX 4070 (12GB):  load_in_4bit=True  (QLoRA, ~6GB VRAM)
+# RTX 4090 (24GB):  load_in_4bit=False, load_in_8bit=True (~9GB VRAM, replicates paper)
+# RTX 5090 (32GB):  same as 4090, can try 70B model
+#
+# Install PyTorch first (CUDA 12.1 — adjust cu121 if your CUDA differs):
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#
+# Then:
+#   pip install -r requirements_gpu.txt
+
+transformers>=4.45.0
+peft>=0.13.0
+trl>=0.11.0
+accelerate>=0.34.0
+bitsandbytes>=0.43.1
+datasets>=2.20.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+huggingface_hub>=0.25.0
+scipy>=1.13.0
+openai>=1.0.0

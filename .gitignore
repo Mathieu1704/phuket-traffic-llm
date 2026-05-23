@@ -1,0 +1,76 @@
+# ── Excluded thesis/internal dirs ─────────────────────────────────────────────
+rapport_latex/
+reports/
+sensors/
+tomtom_phuket/
+papiers/
+
+# ── Large binary / generated ──────────────────────────────────────────────────
+venv/
+llm/outputs/
+backend/chroma_db/
+frontend/node_modules/
+frontend/.next/
+data/PROBE-202201/
+
+# ── Dev-only files ────────────────────────────────────────────────────────────
+llm/NOTEBOOK_HISTORY.md
+notebooks/versions/
+notebooks/figures/
+notebooks/eval/results/
+notebooks/eval/results_ablation/
+notebooks/eval/results_minilm_l6/
+
+# ── Loose figures already in final_data/ ──────────────────────────────────────
+notebooks/*.png
+
+# ── Per-experiment outputs in data/ (canonical versions in final_data/) ───────
+data/ablation_fidelity_details*.csv
+data/best_forecast_checkpoint*.csv
+data/counterfactual_details*.csv
+data/explainability_scores*.csv
+data/forecast_checkpoint_scores*.csv
+data/forecast_plus1_baseline*.csv
+data/forecast_plus1_baselines*.csv
+data/grounding_details*.csv
+data/llm_loss_curves*.png
+data/llm_predictions_test_forecast_h1*.csv
+data/llm_prompts*.jsonl
+data/llm_results*.csv
+data/shap_beeswarm.png
+data/shap_importance_bar.png
+data/shap_waterfall*.png
+data/shap_feature_importance.csv
+data/baseline_results.csv
+data/ml_dataset_gpu.csv
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# ── Environment / secrets ─────────────────────────────────────────────────────
+.env
+.env.*
+*.env
+tomtom_phuket/.env
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# ── Presentation / internal docs ──────────────────────────────────────────────
+*.pptx
+CODEX_MEMORY.md
+presentation_*.md
+presentation_plan.md
+RAG.jpeg
+RAG_mairmaid.png

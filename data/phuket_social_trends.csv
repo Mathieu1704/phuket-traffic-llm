@@ -1,0 +1,791 @@
+week_start,keyword,interest_score,data_group,year,month,week_of_year,season
+2021-12-26,Phuket,41,general_tourism,2021,12,51,High
+2022-01-02,Phuket,45,general_tourism,2022,1,52,High
+2022-01-09,Phuket,40,general_tourism,2022,1,1,High
+2022-01-16,Phuket,36,general_tourism,2022,1,2,High
+2022-01-23,Phuket,35,general_tourism,2022,1,3,High
+2022-01-30,Phuket,37,general_tourism,2022,1,4,High
+2022-02-06,Phuket,37,general_tourism,2022,2,5,High
+2022-02-13,Phuket,39,general_tourism,2022,2,6,High
+2022-02-20,Phuket,36,general_tourism,2022,2,7,High
+2022-02-27,Phuket,37,general_tourism,2022,2,8,High
+2022-03-06,Phuket,38,general_tourism,2022,3,9,High
+2022-03-13,Phuket,40,general_tourism,2022,3,10,High
+2022-03-20,Phuket,39,general_tourism,2022,3,11,High
+2022-03-27,Phuket,39,general_tourism,2022,3,12,High
+2022-04-03,Phuket,41,general_tourism,2022,4,13,High
+2022-04-10,Phuket,45,general_tourism,2022,4,14,High
+2022-04-17,Phuket,41,general_tourism,2022,4,15,High
+2022-04-24,Phuket,43,general_tourism,2022,4,16,High
+2022-05-01,Phuket,46,general_tourism,2022,5,17,Low
+2022-05-08,Phuket,45,general_tourism,2022,5,18,Low
+2022-05-15,Phuket,43,general_tourism,2022,5,19,Low
+2022-05-22,Phuket,44,general_tourism,2022,5,20,Low
+2022-05-29,Phuket,45,general_tourism,2022,5,21,Low
+2022-06-05,Phuket,46,general_tourism,2022,6,22,Low
+2022-06-12,Phuket,43,general_tourism,2022,6,23,Low
+2022-06-19,Phuket,46,general_tourism,2022,6,24,Low
+2022-06-26,Phuket,45,general_tourism,2022,6,25,Low
+2022-07-03,Phuket,48,general_tourism,2022,7,26,Low
+2022-07-10,Phuket,48,general_tourism,2022,7,27,Low
+2022-07-17,Phuket,46,general_tourism,2022,7,28,Low
+2022-07-24,Phuket,47,general_tourism,2022,7,29,Low
+2022-07-31,Phuket,50,general_tourism,2022,7,30,Low
+2022-08-07,Phuket,53,general_tourism,2022,8,31,Low
+2022-08-14,Phuket,55,general_tourism,2022,8,32,Low
+2022-08-21,Phuket,48,general_tourism,2022,8,33,Low
+2022-08-28,Phuket,48,general_tourism,2022,8,34,Low
+2022-09-04,Phuket,48,general_tourism,2022,9,35,Low
+2022-09-11,Phuket,48,general_tourism,2022,9,36,Low
+2022-09-18,Phuket,49,general_tourism,2022,9,37,Low
+2022-09-25,Phuket,47,general_tourism,2022,9,38,Low
+2022-10-02,Phuket,51,general_tourism,2022,10,39,Low
+2022-10-09,Phuket,51,general_tourism,2022,10,40,Low
+2022-10-16,Phuket,58,general_tourism,2022,10,41,Low
+2022-10-23,Phuket,54,general_tourism,2022,10,42,Low
+2022-10-30,Phuket,58,general_tourism,2022,10,43,Low
+2022-11-06,Phuket,59,general_tourism,2022,11,44,High
+2022-11-13,Phuket,63,general_tourism,2022,11,45,High
+2022-11-20,Phuket,58,general_tourism,2022,11,46,High
+2022-11-27,Phuket,57,general_tourism,2022,11,47,High
+2022-12-04,Phuket,56,general_tourism,2022,12,48,High
+2022-12-11,Phuket,61,general_tourism,2022,12,49,High
+2022-12-18,Phuket,61,general_tourism,2022,12,50,High
+2022-12-25,Phuket,74,general_tourism,2022,12,51,High
+2023-01-01,Phuket,72,general_tourism,2023,1,52,High
+2023-01-08,Phuket,69,general_tourism,2023,1,1,High
+2023-01-15,Phuket,69,general_tourism,2023,1,2,High
+2023-01-22,Phuket,72,general_tourism,2023,1,3,High
+2023-01-29,Phuket,68,general_tourism,2023,1,4,High
+2023-02-05,Phuket,64,general_tourism,2023,2,5,High
+2023-02-12,Phuket,66,general_tourism,2023,2,6,High
+2023-02-19,Phuket,67,general_tourism,2023,2,7,High
+2023-02-26,Phuket,61,general_tourism,2023,2,8,High
+2023-03-05,Phuket,65,general_tourism,2023,3,9,High
+2023-03-12,Phuket,60,general_tourism,2023,3,10,High
+2023-03-19,Phuket,60,general_tourism,2023,3,11,High
+2023-03-26,Phuket,55,general_tourism,2023,3,12,High
+2023-04-02,Phuket,56,general_tourism,2023,4,13,High
+2023-04-09,Phuket,56,general_tourism,2023,4,14,High
+2023-04-16,Phuket,55,general_tourism,2023,4,15,High
+2023-04-23,Phuket,54,general_tourism,2023,4,16,High
+2023-04-30,Phuket,54,general_tourism,2023,4,17,High
+2023-05-07,Phuket,50,general_tourism,2023,5,18,Low
+2023-05-14,Phuket,50,general_tourism,2023,5,19,Low
+2023-05-21,Phuket,53,general_tourism,2023,5,20,Low
+2023-05-28,Phuket,51,general_tourism,2023,5,21,Low
+2023-06-04,Phuket,53,general_tourism,2023,6,22,Low
+2023-06-11,Phuket,52,general_tourism,2023,6,23,Low
+2023-06-18,Phuket,51,general_tourism,2023,6,24,Low
+2023-06-25,Phuket,53,general_tourism,2023,6,25,Low
+2023-07-02,Phuket,57,general_tourism,2023,7,26,Low
+2023-07-09,Phuket,56,general_tourism,2023,7,27,Low
+2023-07-16,Phuket,55,general_tourism,2023,7,28,Low
+2023-07-23,Phuket,56,general_tourism,2023,7,29,Low
+2023-07-30,Phuket,56,general_tourism,2023,7,30,Low
+2023-08-06,Phuket,56,general_tourism,2023,8,31,Low
+2023-08-13,Phuket,58,general_tourism,2023,8,32,Low
+2023-08-20,Phuket,59,general_tourism,2023,8,33,Low
+2023-08-27,Phuket,53,general_tourism,2023,8,34,Low
+2023-09-03,Phuket,53,general_tourism,2023,9,35,Low
+2023-09-10,Phuket,51,general_tourism,2023,9,36,Low
+2023-09-17,Phuket,52,general_tourism,2023,9,37,Low
+2023-09-24,Phuket,55,general_tourism,2023,9,38,Low
+2023-10-01,Phuket,54,general_tourism,2023,10,39,Low
+2023-10-08,Phuket,57,general_tourism,2023,10,40,Low
+2023-10-15,Phuket,55,general_tourism,2023,10,41,Low
+2023-10-22,Phuket,57,general_tourism,2023,10,42,Low
+2023-10-29,Phuket,59,general_tourism,2023,10,43,Low
+2023-11-05,Phuket,62,general_tourism,2023,11,44,High
+2023-11-12,Phuket,66,general_tourism,2023,11,45,High
+2023-11-19,Phuket,66,general_tourism,2023,11,46,High
+2023-11-26,Phuket,66,general_tourism,2023,11,47,High
+2023-12-03,Phuket,63,general_tourism,2023,12,48,High
+2023-12-10,Phuket,64,general_tourism,2023,12,49,High
+2023-12-17,Phuket,70,general_tourism,2023,12,50,High
+2023-12-24,Phuket,81,general_tourism,2023,12,51,High
+2023-12-31,Phuket,82,general_tourism,2023,12,52,High
+2024-01-07,Phuket,82,general_tourism,2024,1,1,High
+2024-01-14,Phuket,80,general_tourism,2024,1,2,High
+2024-01-21,Phuket,74,general_tourism,2024,1,3,High
+2024-01-28,Phuket,76,general_tourism,2024,1,4,High
+2024-02-04,Phuket,74,general_tourism,2024,2,5,High
+2024-02-11,Phuket,73,general_tourism,2024,2,6,High
+2024-02-18,Phuket,75,general_tourism,2024,2,7,High
+2024-02-25,Phuket,73,general_tourism,2024,2,8,High
+2024-03-03,Phuket,70,general_tourism,2024,3,9,High
+2024-03-10,Phuket,71,general_tourism,2024,3,10,High
+2024-03-17,Phuket,72,general_tourism,2024,3,11,High
+2024-03-24,Phuket,69,general_tourism,2024,3,12,High
+2024-03-31,Phuket,71,general_tourism,2024,3,13,High
+2024-04-07,Phuket,62,general_tourism,2024,4,14,High
+2024-04-14,Phuket,65,general_tourism,2024,4,15,High
+2024-04-21,Phuket,63,general_tourism,2024,4,16,High
+2024-04-28,Phuket,63,general_tourism,2024,4,17,High
+2024-05-05,Phuket,63,general_tourism,2024,5,18,Low
+2024-05-12,Phuket,64,general_tourism,2024,5,19,Low
+2024-05-19,Phuket,60,general_tourism,2024,5,20,Low
+2024-05-26,Phuket,61,general_tourism,2024,5,21,Low
+2024-06-02,Phuket,59,general_tourism,2024,6,22,Low
+2024-06-09,Phuket,63,general_tourism,2024,6,23,Low
+2024-06-16,Phuket,63,general_tourism,2024,6,24,Low
+2024-06-23,Phuket,60,general_tourism,2024,6,25,Low
+2024-06-30,Phuket,65,general_tourism,2024,6,26,Low
+2024-07-07,Phuket,65,general_tourism,2024,7,27,Low
+2024-07-14,Phuket,65,general_tourism,2024,7,28,Low
+2024-07-21,Phuket,63,general_tourism,2024,7,29,Low
+2024-07-28,Phuket,62,general_tourism,2024,7,30,Low
+2024-08-04,Phuket,66,general_tourism,2024,8,31,Low
+2024-08-11,Phuket,70,general_tourism,2024,8,32,Low
+2024-08-18,Phuket,67,general_tourism,2024,8,33,Low
+2024-08-25,Phuket,69,general_tourism,2024,8,34,Low
+2024-09-01,Phuket,63,general_tourism,2024,9,35,Low
+2024-09-08,Phuket,63,general_tourism,2024,9,36,Low
+2024-09-15,Phuket,67,general_tourism,2024,9,37,Low
+2024-09-22,Phuket,60,general_tourism,2024,9,38,Low
+2024-09-29,Phuket,63,general_tourism,2024,9,39,Low
+2024-10-06,Phuket,66,general_tourism,2024,10,40,Low
+2024-10-13,Phuket,66,general_tourism,2024,10,41,Low
+2024-10-20,Phuket,66,general_tourism,2024,10,42,Low
+2024-10-27,Phuket,69,general_tourism,2024,10,43,Low
+2024-11-03,Phuket,75,general_tourism,2024,11,44,High
+2024-11-10,Phuket,80,general_tourism,2024,11,45,High
+2024-11-17,Phuket,80,general_tourism,2024,11,46,High
+2024-11-24,Phuket,83,general_tourism,2024,11,47,High
+2024-12-01,Phuket,79,general_tourism,2024,12,48,High
+2024-12-08,Phuket,79,general_tourism,2024,12,49,High
+2024-12-15,Phuket,83,general_tourism,2024,12,50,High
+2024-12-22,Phuket,98,general_tourism,2024,12,51,High
+2024-12-29,Phuket,100,general_tourism,2024,12,52,High
+2021-12-26,Phuket beach,3,general_tourism,2021,12,51,High
+2022-01-02,Phuket beach,3,general_tourism,2022,1,52,High
+2022-01-09,Phuket beach,3,general_tourism,2022,1,1,High
+2022-01-16,Phuket beach,3,general_tourism,2022,1,2,High
+2022-01-23,Phuket beach,3,general_tourism,2022,1,3,High
+2022-01-30,Phuket beach,3,general_tourism,2022,1,4,High
+2022-02-06,Phuket beach,3,general_tourism,2022,2,5,High
+2022-02-13,Phuket beach,3,general_tourism,2022,2,6,High
+2022-02-20,Phuket beach,3,general_tourism,2022,2,7,High
+2022-02-27,Phuket beach,3,general_tourism,2022,2,8,High
+2022-03-06,Phuket beach,3,general_tourism,2022,3,9,High
+2022-03-13,Phuket beach,3,general_tourism,2022,3,10,High
+2022-03-20,Phuket beach,3,general_tourism,2022,3,11,High
+2022-03-27,Phuket beach,3,general_tourism,2022,3,12,High
+2022-04-03,Phuket beach,3,general_tourism,2022,4,13,High
+2022-04-10,Phuket beach,3,general_tourism,2022,4,14,High
+2022-04-17,Phuket beach,3,general_tourism,2022,4,15,High
+2022-04-24,Phuket beach,3,general_tourism,2022,4,16,High
+2022-05-01,Phuket beach,4,general_tourism,2022,5,17,Low
+2022-05-08,Phuket beach,3,general_tourism,2022,5,18,Low
+2022-05-15,Phuket beach,3,general_tourism,2022,5,19,Low
+2022-05-22,Phuket beach,3,general_tourism,2022,5,20,Low
+2022-05-29,Phuket beach,3,general_tourism,2022,5,21,Low
+2022-06-05,Phuket beach,3,general_tourism,2022,6,22,Low
+2022-06-12,Phuket beach,3,general_tourism,2022,6,23,Low
+2022-06-19,Phuket beach,3,general_tourism,2022,6,24,Low
+2022-06-26,Phuket beach,3,general_tourism,2022,6,25,Low
+2022-07-03,Phuket beach,4,general_tourism,2022,7,26,Low
+2022-07-10,Phuket beach,4,general_tourism,2022,7,27,Low
+2022-07-17,Phuket beach,4,general_tourism,2022,7,28,Low
+2022-07-24,Phuket beach,3,general_tourism,2022,7,29,Low
+2022-07-31,Phuket beach,4,general_tourism,2022,7,30,Low
+2022-08-07,Phuket beach,4,general_tourism,2022,8,31,Low
+2022-08-14,Phuket beach,4,general_tourism,2022,8,32,Low
+2022-08-21,Phuket beach,4,general_tourism,2022,8,33,Low
+2022-08-28,Phuket beach,4,general_tourism,2022,8,34,Low
+2022-09-04,Phuket beach,4,general_tourism,2022,9,35,Low
+2022-09-11,Phuket beach,4,general_tourism,2022,9,36,Low
+2022-09-18,Phuket beach,4,general_tourism,2022,9,37,Low
+2022-09-25,Phuket beach,4,general_tourism,2022,9,38,Low
+2022-10-02,Phuket beach,4,general_tourism,2022,10,39,Low
+2022-10-09,Phuket beach,4,general_tourism,2022,10,40,Low
+2022-10-16,Phuket beach,4,general_tourism,2022,10,41,Low
+2022-10-23,Phuket beach,4,general_tourism,2022,10,42,Low
+2022-10-30,Phuket beach,5,general_tourism,2022,10,43,Low
+2022-11-06,Phuket beach,5,general_tourism,2022,11,44,High
+2022-11-13,Phuket beach,5,general_tourism,2022,11,45,High
+2022-11-20,Phuket beach,5,general_tourism,2022,11,46,High
+2022-11-27,Phuket beach,5,general_tourism,2022,11,47,High
+2022-12-04,Phuket beach,5,general_tourism,2022,12,48,High
+2022-12-11,Phuket beach,5,general_tourism,2022,12,49,High
+2022-12-18,Phuket beach,5,general_tourism,2022,12,50,High
+2022-12-25,Phuket beach,6,general_tourism,2022,12,51,High
+2023-01-01,Phuket beach,6,general_tourism,2023,1,52,High
+2023-01-08,Phuket beach,7,general_tourism,2023,1,1,High
+2023-01-15,Phuket beach,6,general_tourism,2023,1,2,High
+2023-01-22,Phuket beach,6,general_tourism,2023,1,3,High
+2023-01-29,Phuket beach,6,general_tourism,2023,1,4,High
+2023-02-05,Phuket beach,6,general_tourism,2023,2,5,High
+2023-02-12,Phuket beach,5,general_tourism,2023,2,6,High
+2023-02-19,Phuket beach,5,general_tourism,2023,2,7,High
+2023-02-26,Phuket beach,5,general_tourism,2023,2,8,High
+2023-03-05,Phuket beach,5,general_tourism,2023,3,9,High
+2023-03-12,Phuket beach,5,general_tourism,2023,3,10,High
+2023-03-19,Phuket beach,4,general_tourism,2023,3,11,High
+2023-03-26,Phuket beach,5,general_tourism,2023,3,12,High
+2023-04-02,Phuket beach,5,general_tourism,2023,4,13,High
+2023-04-09,Phuket beach,5,general_tourism,2023,4,14,High
+2023-04-16,Phuket beach,4,general_tourism,2023,4,15,High
+2023-04-23,Phuket beach,4,general_tourism,2023,4,16,High
+2023-04-30,Phuket beach,4,general_tourism,2023,4,17,High
+2023-05-07,Phuket beach,4,general_tourism,2023,5,18,Low
+2023-05-14,Phuket beach,4,general_tourism,2023,5,19,Low
+2023-05-21,Phuket beach,4,general_tourism,2023,5,20,Low
+2023-05-28,Phuket beach,4,general_tourism,2023,5,21,Low
+2023-06-04,Phuket beach,4,general_tourism,2023,6,22,Low
+2023-06-11,Phuket beach,4,general_tourism,2023,6,23,Low
+2023-06-18,Phuket beach,4,general_tourism,2023,6,24,Low
+2023-06-25,Phuket beach,4,general_tourism,2023,6,25,Low
+2023-07-02,Phuket beach,5,general_tourism,2023,7,26,Low
+2023-07-09,Phuket beach,5,general_tourism,2023,7,27,Low
+2023-07-16,Phuket beach,5,general_tourism,2023,7,28,Low
+2023-07-23,Phuket beach,5,general_tourism,2023,7,29,Low
+2023-07-30,Phuket beach,5,general_tourism,2023,7,30,Low
+2023-08-06,Phuket beach,5,general_tourism,2023,8,31,Low
+2023-08-13,Phuket beach,5,general_tourism,2023,8,32,Low
+2023-08-20,Phuket beach,5,general_tourism,2023,8,33,Low
+2023-08-27,Phuket beach,5,general_tourism,2023,8,34,Low
+2023-09-03,Phuket beach,5,general_tourism,2023,9,35,Low
+2023-09-10,Phuket beach,4,general_tourism,2023,9,36,Low
+2023-09-17,Phuket beach,4,general_tourism,2023,9,37,Low
+2023-09-24,Phuket beach,5,general_tourism,2023,9,38,Low
+2023-10-01,Phuket beach,5,general_tourism,2023,10,39,Low
+2023-10-08,Phuket beach,5,general_tourism,2023,10,40,Low
+2023-10-15,Phuket beach,5,general_tourism,2023,10,41,Low
+2023-10-22,Phuket beach,5,general_tourism,2023,10,42,Low
+2023-10-29,Phuket beach,5,general_tourism,2023,10,43,Low
+2023-11-05,Phuket beach,6,general_tourism,2023,11,44,High
+2023-11-12,Phuket beach,6,general_tourism,2023,11,45,High
+2023-11-19,Phuket beach,6,general_tourism,2023,11,46,High
+2023-11-26,Phuket beach,6,general_tourism,2023,11,47,High
+2023-12-03,Phuket beach,6,general_tourism,2023,12,48,High
+2023-12-10,Phuket beach,5,general_tourism,2023,12,49,High
+2023-12-17,Phuket beach,6,general_tourism,2023,12,50,High
+2023-12-24,Phuket beach,7,general_tourism,2023,12,51,High
+2023-12-31,Phuket beach,7,general_tourism,2023,12,52,High
+2024-01-07,Phuket beach,7,general_tourism,2024,1,1,High
+2024-01-14,Phuket beach,8,general_tourism,2024,1,2,High
+2024-01-21,Phuket beach,7,general_tourism,2024,1,3,High
+2024-01-28,Phuket beach,7,general_tourism,2024,1,4,High
+2024-02-04,Phuket beach,7,general_tourism,2024,2,5,High
+2024-02-11,Phuket beach,6,general_tourism,2024,2,6,High
+2024-02-18,Phuket beach,7,general_tourism,2024,2,7,High
+2024-02-25,Phuket beach,6,general_tourism,2024,2,8,High
+2024-03-03,Phuket beach,6,general_tourism,2024,3,9,High
+2024-03-10,Phuket beach,6,general_tourism,2024,3,10,High
+2024-03-17,Phuket beach,6,general_tourism,2024,3,11,High
+2024-03-24,Phuket beach,6,general_tourism,2024,3,12,High
+2024-03-31,Phuket beach,6,general_tourism,2024,3,13,High
+2024-04-07,Phuket beach,5,general_tourism,2024,4,14,High
+2024-04-14,Phuket beach,5,general_tourism,2024,4,15,High
+2024-04-21,Phuket beach,6,general_tourism,2024,4,16,High
+2024-04-28,Phuket beach,6,general_tourism,2024,4,17,High
+2024-05-05,Phuket beach,5,general_tourism,2024,5,18,Low
+2024-05-12,Phuket beach,5,general_tourism,2024,5,19,Low
+2024-05-19,Phuket beach,5,general_tourism,2024,5,20,Low
+2024-05-26,Phuket beach,5,general_tourism,2024,5,21,Low
+2024-06-02,Phuket beach,5,general_tourism,2024,6,22,Low
+2024-06-09,Phuket beach,5,general_tourism,2024,6,23,Low
+2024-06-16,Phuket beach,5,general_tourism,2024,6,24,Low
+2024-06-23,Phuket beach,5,general_tourism,2024,6,25,Low
+2024-06-30,Phuket beach,6,general_tourism,2024,6,26,Low
+2024-07-07,Phuket beach,6,general_tourism,2024,7,27,Low
+2024-07-14,Phuket beach,5,general_tourism,2024,7,28,Low
+2024-07-21,Phuket beach,6,general_tourism,2024,7,29,Low
+2024-07-28,Phuket beach,6,general_tourism,2024,7,30,Low
+2024-08-04,Phuket beach,6,general_tourism,2024,8,31,Low
+2024-08-11,Phuket beach,6,general_tourism,2024,8,32,Low
+2024-08-18,Phuket beach,6,general_tourism,2024,8,33,Low
+2024-08-25,Phuket beach,6,general_tourism,2024,8,34,Low
+2024-09-01,Phuket beach,6,general_tourism,2024,9,35,Low
+2024-09-08,Phuket beach,6,general_tourism,2024,9,36,Low
+2024-09-15,Phuket beach,6,general_tourism,2024,9,37,Low
+2024-09-22,Phuket beach,6,general_tourism,2024,9,38,Low
+2024-09-29,Phuket beach,6,general_tourism,2024,9,39,Low
+2024-10-06,Phuket beach,6,general_tourism,2024,10,40,Low
+2024-10-13,Phuket beach,6,general_tourism,2024,10,41,Low
+2024-10-20,Phuket beach,6,general_tourism,2024,10,42,Low
+2024-10-27,Phuket beach,6,general_tourism,2024,10,43,Low
+2024-11-03,Phuket beach,7,general_tourism,2024,11,44,High
+2024-11-10,Phuket beach,7,general_tourism,2024,11,45,High
+2024-11-17,Phuket beach,7,general_tourism,2024,11,46,High
+2024-11-24,Phuket beach,7,general_tourism,2024,11,47,High
+2024-12-01,Phuket beach,7,general_tourism,2024,12,48,High
+2024-12-08,Phuket beach,7,general_tourism,2024,12,49,High
+2024-12-15,Phuket beach,7,general_tourism,2024,12,50,High
+2024-12-22,Phuket beach,8,general_tourism,2024,12,51,High
+2024-12-29,Phuket beach,9,general_tourism,2024,12,52,High
+2021-12-26,Phuket hotel,3,general_tourism,2021,12,51,High
+2022-01-02,Phuket hotel,3,general_tourism,2022,1,52,High
+2022-01-09,Phuket hotel,3,general_tourism,2022,1,1,High
+2022-01-16,Phuket hotel,3,general_tourism,2022,1,2,High
+2022-01-23,Phuket hotel,2,general_tourism,2022,1,3,High
+2022-01-30,Phuket hotel,3,general_tourism,2022,1,4,High
+2022-02-06,Phuket hotel,3,general_tourism,2022,2,5,High
+2022-02-13,Phuket hotel,3,general_tourism,2022,2,6,High
+2022-02-20,Phuket hotel,2,general_tourism,2022,2,7,High
+2022-02-27,Phuket hotel,2,general_tourism,2022,2,8,High
+2022-03-06,Phuket hotel,2,general_tourism,2022,3,9,High
+2022-03-13,Phuket hotel,3,general_tourism,2022,3,10,High
+2022-03-20,Phuket hotel,3,general_tourism,2022,3,11,High
+2022-03-27,Phuket hotel,3,general_tourism,2022,3,12,High
+2022-04-03,Phuket hotel,3,general_tourism,2022,4,13,High
+2022-04-10,Phuket hotel,3,general_tourism,2022,4,14,High
+2022-04-17,Phuket hotel,3,general_tourism,2022,4,15,High
+2022-04-24,Phuket hotel,3,general_tourism,2022,4,16,High
+2022-05-01,Phuket hotel,3,general_tourism,2022,5,17,Low
+2022-05-08,Phuket hotel,3,general_tourism,2022,5,18,Low
+2022-05-15,Phuket hotel,3,general_tourism,2022,5,19,Low
+2022-05-22,Phuket hotel,3,general_tourism,2022,5,20,Low
+2022-05-29,Phuket hotel,3,general_tourism,2022,5,21,Low
+2022-06-05,Phuket hotel,3,general_tourism,2022,6,22,Low
+2022-06-12,Phuket hotel,3,general_tourism,2022,6,23,Low
+2022-06-19,Phuket hotel,3,general_tourism,2022,6,24,Low
+2022-06-26,Phuket hotel,3,general_tourism,2022,6,25,Low
+2022-07-03,Phuket hotel,3,general_tourism,2022,7,26,Low
+2022-07-10,Phuket hotel,3,general_tourism,2022,7,27,Low
+2022-07-17,Phuket hotel,3,general_tourism,2022,7,28,Low
+2022-07-24,Phuket hotel,3,general_tourism,2022,7,29,Low
+2022-07-31,Phuket hotel,3,general_tourism,2022,7,30,Low
+2022-08-07,Phuket hotel,3,general_tourism,2022,8,31,Low
+2022-08-14,Phuket hotel,3,general_tourism,2022,8,32,Low
+2022-08-21,Phuket hotel,3,general_tourism,2022,8,33,Low
+2022-08-28,Phuket hotel,3,general_tourism,2022,8,34,Low
+2022-09-04,Phuket hotel,3,general_tourism,2022,9,35,Low
+2022-09-11,Phuket hotel,3,general_tourism,2022,9,36,Low
+2022-09-18,Phuket hotel,3,general_tourism,2022,9,37,Low
+2022-09-25,Phuket hotel,3,general_tourism,2022,9,38,Low
+2022-10-02,Phuket hotel,3,general_tourism,2022,10,39,Low
+2022-10-09,Phuket hotel,3,general_tourism,2022,10,40,Low
+2022-10-16,Phuket hotel,3,general_tourism,2022,10,41,Low
+2022-10-23,Phuket hotel,3,general_tourism,2022,10,42,Low
+2022-10-30,Phuket hotel,3,general_tourism,2022,10,43,Low
+2022-11-06,Phuket hotel,4,general_tourism,2022,11,44,High
+2022-11-13,Phuket hotel,4,general_tourism,2022,11,45,High
+2022-11-20,Phuket hotel,4,general_tourism,2022,11,46,High
+2022-11-27,Phuket hotel,4,general_tourism,2022,11,47,High
+2022-12-04,Phuket hotel,4,general_tourism,2022,12,48,High
+2022-12-11,Phuket hotel,4,general_tourism,2022,12,49,High
+2022-12-18,Phuket hotel,4,general_tourism,2022,12,50,High
+2022-12-25,Phuket hotel,4,general_tourism,2022,12,51,High
+2023-01-01,Phuket hotel,5,general_tourism,2023,1,52,High
+2023-01-08,Phuket hotel,5,general_tourism,2023,1,1,High
+2023-01-15,Phuket hotel,4,general_tourism,2023,1,2,High
+2023-01-22,Phuket hotel,5,general_tourism,2023,1,3,High
+2023-01-29,Phuket hotel,5,general_tourism,2023,1,4,High
+2023-02-05,Phuket hotel,4,general_tourism,2023,2,5,High
+2023-02-12,Phuket hotel,4,general_tourism,2023,2,6,High
+2023-02-19,Phuket hotel,4,general_tourism,2023,2,7,High
+2023-02-26,Phuket hotel,4,general_tourism,2023,2,8,High
+2023-03-05,Phuket hotel,4,general_tourism,2023,3,9,High
+2023-03-12,Phuket hotel,4,general_tourism,2023,3,10,High
+2023-03-19,Phuket hotel,3,general_tourism,2023,3,11,High
+2023-03-26,Phuket hotel,3,general_tourism,2023,3,12,High
+2023-04-02,Phuket hotel,3,general_tourism,2023,4,13,High
+2023-04-09,Phuket hotel,3,general_tourism,2023,4,14,High
+2023-04-16,Phuket hotel,3,general_tourism,2023,4,15,High
+2023-04-23,Phuket hotel,3,general_tourism,2023,4,16,High
+2023-04-30,Phuket hotel,3,general_tourism,2023,4,17,High
+2023-05-07,Phuket hotel,3,general_tourism,2023,5,18,Low
+2023-05-14,Phuket hotel,3,general_tourism,2023,5,19,Low
+2023-05-21,Phuket hotel,3,general_tourism,2023,5,20,Low
+2023-05-28,Phuket hotel,3,general_tourism,2023,5,21,Low
+2023-06-04,Phuket hotel,3,general_tourism,2023,6,22,Low
+2023-06-11,Phuket hotel,3,general_tourism,2023,6,23,Low
+2023-06-18,Phuket hotel,3,general_tourism,2023,6,24,Low
+2023-06-25,Phuket hotel,3,general_tourism,2023,6,25,Low
+2023-07-02,Phuket hotel,3,general_tourism,2023,7,26,Low
+2023-07-09,Phuket hotel,4,general_tourism,2023,7,27,Low
+2023-07-16,Phuket hotel,4,general_tourism,2023,7,28,Low
+2023-07-23,Phuket hotel,4,general_tourism,2023,7,29,Low
+2023-07-30,Phuket hotel,3,general_tourism,2023,7,30,Low
+2023-08-06,Phuket hotel,3,general_tourism,2023,8,31,Low
+2023-08-13,Phuket hotel,3,general_tourism,2023,8,32,Low
+2023-08-20,Phuket hotel,4,general_tourism,2023,8,33,Low
+2023-08-27,Phuket hotel,4,general_tourism,2023,8,34,Low
+2023-09-03,Phuket hotel,3,general_tourism,2023,9,35,Low
+2023-09-10,Phuket hotel,3,general_tourism,2023,9,36,Low
+2023-09-17,Phuket hotel,4,general_tourism,2023,9,37,Low
+2023-09-24,Phuket hotel,4,general_tourism,2023,9,38,Low
+2023-10-01,Phuket hotel,4,general_tourism,2023,10,39,Low
+2023-10-08,Phuket hotel,4,general_tourism,2023,10,40,Low
+2023-10-15,Phuket hotel,4,general_tourism,2023,10,41,Low
+2023-10-22,Phuket hotel,4,general_tourism,2023,10,42,Low
+2023-10-29,Phuket hotel,4,general_tourism,2023,10,43,Low
+2023-11-05,Phuket hotel,4,general_tourism,2023,11,44,High
+2023-11-12,Phuket hotel,5,general_tourism,2023,11,45,High
+2023-11-19,Phuket hotel,4,general_tourism,2023,11,46,High
+2023-11-26,Phuket hotel,4,general_tourism,2023,11,47,High
+2023-12-03,Phuket hotel,4,general_tourism,2023,12,48,High
+2023-12-10,Phuket hotel,4,general_tourism,2023,12,49,High
+2023-12-17,Phuket hotel,4,general_tourism,2023,12,50,High
+2023-12-24,Phuket hotel,5,general_tourism,2023,12,51,High
+2023-12-31,Phuket hotel,5,general_tourism,2023,12,52,High
+2024-01-07,Phuket hotel,5,general_tourism,2024,1,1,High
+2024-01-14,Phuket hotel,6,general_tourism,2024,1,2,High
+2024-01-21,Phuket hotel,5,general_tourism,2024,1,3,High
+2024-01-28,Phuket hotel,5,general_tourism,2024,1,4,High
+2024-02-04,Phuket hotel,5,general_tourism,2024,2,5,High
+2024-02-11,Phuket hotel,5,general_tourism,2024,2,6,High
+2024-02-18,Phuket hotel,5,general_tourism,2024,2,7,High
+2024-02-25,Phuket hotel,5,general_tourism,2024,2,8,High
+2024-03-03,Phuket hotel,4,general_tourism,2024,3,9,High
+2024-03-10,Phuket hotel,4,general_tourism,2024,3,10,High
+2024-03-17,Phuket hotel,4,general_tourism,2024,3,11,High
+2024-03-24,Phuket hotel,4,general_tourism,2024,3,12,High
+2024-03-31,Phuket hotel,4,general_tourism,2024,3,13,High
+2024-04-07,Phuket hotel,4,general_tourism,2024,4,14,High
+2024-04-14,Phuket hotel,4,general_tourism,2024,4,15,High
+2024-04-21,Phuket hotel,4,general_tourism,2024,4,16,High
+2024-04-28,Phuket hotel,4,general_tourism,2024,4,17,High
+2024-05-05,Phuket hotel,4,general_tourism,2024,5,18,Low
+2024-05-12,Phuket hotel,4,general_tourism,2024,5,19,Low
+2024-05-19,Phuket hotel,4,general_tourism,2024,5,20,Low
+2024-05-26,Phuket hotel,4,general_tourism,2024,5,21,Low
+2024-06-02,Phuket hotel,4,general_tourism,2024,6,22,Low
+2024-06-09,Phuket hotel,4,general_tourism,2024,6,23,Low
+2024-06-16,Phuket hotel,4,general_tourism,2024,6,24,Low
+2024-06-23,Phuket hotel,4,general_tourism,2024,6,25,Low
+2024-06-30,Phuket hotel,4,general_tourism,2024,6,26,Low
+2024-07-07,Phuket hotel,4,general_tourism,2024,7,27,Low
+2024-07-14,Phuket hotel,4,general_tourism,2024,7,28,Low
+2024-07-21,Phuket hotel,4,general_tourism,2024,7,29,Low
+2024-07-28,Phuket hotel,4,general_tourism,2024,7,30,Low
+2024-08-04,Phuket hotel,4,general_tourism,2024,8,31,Low
+2024-08-11,Phuket hotel,4,general_tourism,2024,8,32,Low
+2024-08-18,Phuket hotel,5,general_tourism,2024,8,33,Low
+2024-08-25,Phuket hotel,4,general_tourism,2024,8,34,Low
+2024-09-01,Phuket hotel,4,general_tourism,2024,9,35,Low
+2024-09-08,Phuket hotel,4,general_tourism,2024,9,36,Low
+2024-09-15,Phuket hotel,4,general_tourism,2024,9,37,Low
+2024-09-22,Phuket hotel,4,general_tourism,2024,9,38,Low
+2024-09-29,Phuket hotel,4,general_tourism,2024,9,39,Low
+2024-10-06,Phuket hotel,4,general_tourism,2024,10,40,Low
+2024-10-13,Phuket hotel,5,general_tourism,2024,10,41,Low
+2024-10-20,Phuket hotel,5,general_tourism,2024,10,42,Low
+2024-10-27,Phuket hotel,4,general_tourism,2024,10,43,Low
+2024-11-03,Phuket hotel,5,general_tourism,2024,11,44,High
+2024-11-10,Phuket hotel,5,general_tourism,2024,11,45,High
+2024-11-17,Phuket hotel,5,general_tourism,2024,11,46,High
+2024-11-24,Phuket hotel,5,general_tourism,2024,11,47,High
+2024-12-01,Phuket hotel,5,general_tourism,2024,12,48,High
+2024-12-08,Phuket hotel,5,general_tourism,2024,12,49,High
+2024-12-15,Phuket hotel,5,general_tourism,2024,12,50,High
+2024-12-22,Phuket hotel,6,general_tourism,2024,12,51,High
+2024-12-29,Phuket hotel,6,general_tourism,2024,12,52,High
+2021-12-26,Phuket flight,22,travel_intent,2021,12,51,High
+2022-01-02,Phuket flight,31,travel_intent,2022,1,52,High
+2022-01-09,Phuket flight,25,travel_intent,2022,1,1,High
+2022-01-16,Phuket flight,26,travel_intent,2022,1,2,High
+2022-01-23,Phuket flight,26,travel_intent,2022,1,3,High
+2022-01-30,Phuket flight,26,travel_intent,2022,1,4,High
+2022-02-06,Phuket flight,29,travel_intent,2022,2,5,High
+2022-02-13,Phuket flight,27,travel_intent,2022,2,6,High
+2022-02-20,Phuket flight,30,travel_intent,2022,2,7,High
+2022-02-27,Phuket flight,32,travel_intent,2022,2,8,High
+2022-03-06,Phuket flight,35,travel_intent,2022,3,9,High
+2022-03-13,Phuket flight,35,travel_intent,2022,3,10,High
+2022-03-20,Phuket flight,37,travel_intent,2022,3,11,High
+2022-03-27,Phuket flight,40,travel_intent,2022,3,12,High
+2022-04-03,Phuket flight,42,travel_intent,2022,4,13,High
+2022-04-10,Phuket flight,40,travel_intent,2022,4,14,High
+2022-04-17,Phuket flight,40,travel_intent,2022,4,15,High
+2022-04-24,Phuket flight,43,travel_intent,2022,4,16,High
+2022-05-01,Phuket flight,52,travel_intent,2022,5,17,Low
+2022-05-08,Phuket flight,48,travel_intent,2022,5,18,Low
+2022-05-15,Phuket flight,47,travel_intent,2022,5,19,Low
+2022-05-22,Phuket flight,52,travel_intent,2022,5,20,Low
+2022-05-29,Phuket flight,51,travel_intent,2022,5,21,Low
+2022-06-05,Phuket flight,52,travel_intent,2022,6,22,Low
+2022-06-12,Phuket flight,51,travel_intent,2022,6,23,Low
+2022-06-19,Phuket flight,51,travel_intent,2022,6,24,Low
+2022-06-26,Phuket flight,52,travel_intent,2022,6,25,Low
+2022-07-03,Phuket flight,54,travel_intent,2022,7,26,Low
+2022-07-10,Phuket flight,51,travel_intent,2022,7,27,Low
+2022-07-17,Phuket flight,58,travel_intent,2022,7,28,Low
+2022-07-24,Phuket flight,55,travel_intent,2022,7,29,Low
+2022-07-31,Phuket flight,53,travel_intent,2022,7,30,Low
+2022-08-07,Phuket flight,54,travel_intent,2022,8,31,Low
+2022-08-14,Phuket flight,54,travel_intent,2022,8,32,Low
+2022-08-21,Phuket flight,57,travel_intent,2022,8,33,Low
+2022-08-28,Phuket flight,58,travel_intent,2022,8,34,Low
+2022-09-04,Phuket flight,54,travel_intent,2022,9,35,Low
+2022-09-11,Phuket flight,60,travel_intent,2022,9,36,Low
+2022-09-18,Phuket flight,58,travel_intent,2022,9,37,Low
+2022-09-25,Phuket flight,62,travel_intent,2022,9,38,Low
+2022-10-02,Phuket flight,58,travel_intent,2022,10,39,Low
+2022-10-09,Phuket flight,56,travel_intent,2022,10,40,Low
+2022-10-16,Phuket flight,58,travel_intent,2022,10,41,Low
+2022-10-23,Phuket flight,56,travel_intent,2022,10,42,Low
+2022-10-30,Phuket flight,62,travel_intent,2022,10,43,Low
+2022-11-06,Phuket flight,62,travel_intent,2022,11,44,High
+2022-11-13,Phuket flight,62,travel_intent,2022,11,45,High
+2022-11-20,Phuket flight,57,travel_intent,2022,11,46,High
+2022-11-27,Phuket flight,58,travel_intent,2022,11,47,High
+2022-12-04,Phuket flight,59,travel_intent,2022,12,48,High
+2022-12-11,Phuket flight,58,travel_intent,2022,12,49,High
+2022-12-18,Phuket flight,61,travel_intent,2022,12,50,High
+2022-12-25,Phuket flight,68,travel_intent,2022,12,51,High
+2023-01-01,Phuket flight,75,travel_intent,2023,1,52,High
+2023-01-08,Phuket flight,67,travel_intent,2023,1,1,High
+2023-01-15,Phuket flight,64,travel_intent,2023,1,2,High
+2023-01-22,Phuket flight,67,travel_intent,2023,1,3,High
+2023-01-29,Phuket flight,66,travel_intent,2023,1,4,High
+2023-02-05,Phuket flight,61,travel_intent,2023,2,5,High
+2023-02-12,Phuket flight,65,travel_intent,2023,2,6,High
+2023-02-19,Phuket flight,65,travel_intent,2023,2,7,High
+2023-02-26,Phuket flight,64,travel_intent,2023,2,8,High
+2023-03-05,Phuket flight,67,travel_intent,2023,3,9,High
+2023-03-12,Phuket flight,66,travel_intent,2023,3,10,High
+2023-03-19,Phuket flight,62,travel_intent,2023,3,11,High
+2023-03-26,Phuket flight,60,travel_intent,2023,3,12,High
+2023-04-02,Phuket flight,65,travel_intent,2023,4,13,High
+2023-04-09,Phuket flight,60,travel_intent,2023,4,14,High
+2023-04-16,Phuket flight,63,travel_intent,2023,4,15,High
+2023-04-23,Phuket flight,63,travel_intent,2023,4,16,High
+2023-04-30,Phuket flight,67,travel_intent,2023,4,17,High
+2023-05-07,Phuket flight,61,travel_intent,2023,5,18,Low
+2023-05-14,Phuket flight,62,travel_intent,2023,5,19,Low
+2023-05-21,Phuket flight,60,travel_intent,2023,5,20,Low
+2023-05-28,Phuket flight,62,travel_intent,2023,5,21,Low
+2023-06-04,Phuket flight,60,travel_intent,2023,6,22,Low
+2023-06-11,Phuket flight,61,travel_intent,2023,6,23,Low
+2023-06-18,Phuket flight,66,travel_intent,2023,6,24,Low
+2023-06-25,Phuket flight,64,travel_intent,2023,6,25,Low
+2023-07-02,Phuket flight,62,travel_intent,2023,7,26,Low
+2023-07-09,Phuket flight,62,travel_intent,2023,7,27,Low
+2023-07-16,Phuket flight,54,travel_intent,2023,7,28,Low
+2023-07-23,Phuket flight,60,travel_intent,2023,7,29,Low
+2023-07-30,Phuket flight,62,travel_intent,2023,7,30,Low
+2023-08-06,Phuket flight,56,travel_intent,2023,8,31,Low
+2023-08-13,Phuket flight,62,travel_intent,2023,8,32,Low
+2023-08-20,Phuket flight,55,travel_intent,2023,8,33,Low
+2023-08-27,Phuket flight,53,travel_intent,2023,8,34,Low
+2023-09-03,Phuket flight,54,travel_intent,2023,9,35,Low
+2023-09-10,Phuket flight,58,travel_intent,2023,9,36,Low
+2023-09-17,Phuket flight,53,travel_intent,2023,9,37,Low
+2023-09-24,Phuket flight,58,travel_intent,2023,9,38,Low
+2023-10-01,Phuket flight,59,travel_intent,2023,10,39,Low
+2023-10-08,Phuket flight,59,travel_intent,2023,10,40,Low
+2023-10-15,Phuket flight,59,travel_intent,2023,10,41,Low
+2023-10-22,Phuket flight,52,travel_intent,2023,10,42,Low
+2023-10-29,Phuket flight,63,travel_intent,2023,10,43,Low
+2023-11-05,Phuket flight,64,travel_intent,2023,11,44,High
+2023-11-12,Phuket flight,63,travel_intent,2023,11,45,High
+2023-11-19,Phuket flight,68,travel_intent,2023,11,46,High
+2023-11-26,Phuket flight,66,travel_intent,2023,11,47,High
+2023-12-03,Phuket flight,66,travel_intent,2023,12,48,High
+2023-12-10,Phuket flight,65,travel_intent,2023,12,49,High
+2023-12-17,Phuket flight,72,travel_intent,2023,12,50,High
+2023-12-24,Phuket flight,79,travel_intent,2023,12,51,High
+2023-12-31,Phuket flight,80,travel_intent,2023,12,52,High
+2024-01-07,Phuket flight,84,travel_intent,2024,1,1,High
+2024-01-14,Phuket flight,76,travel_intent,2024,1,2,High
+2024-01-21,Phuket flight,74,travel_intent,2024,1,3,High
+2024-01-28,Phuket flight,69,travel_intent,2024,1,4,High
+2024-02-04,Phuket flight,71,travel_intent,2024,2,5,High
+2024-02-11,Phuket flight,61,travel_intent,2024,2,6,High
+2024-02-18,Phuket flight,73,travel_intent,2024,2,7,High
+2024-02-25,Phuket flight,71,travel_intent,2024,2,8,High
+2024-03-03,Phuket flight,59,travel_intent,2024,3,9,High
+2024-03-10,Phuket flight,66,travel_intent,2024,3,10,High
+2024-03-17,Phuket flight,67,travel_intent,2024,3,11,High
+2024-03-24,Phuket flight,70,travel_intent,2024,3,12,High
+2024-03-31,Phuket flight,68,travel_intent,2024,3,13,High
+2024-04-07,Phuket flight,58,travel_intent,2024,4,14,High
+2024-04-14,Phuket flight,61,travel_intent,2024,4,15,High
+2024-04-21,Phuket flight,65,travel_intent,2024,4,16,High
+2024-04-28,Phuket flight,66,travel_intent,2024,4,17,High
+2024-05-05,Phuket flight,59,travel_intent,2024,5,18,Low
+2024-05-12,Phuket flight,66,travel_intent,2024,5,19,Low
+2024-05-19,Phuket flight,72,travel_intent,2024,5,20,Low
+2024-05-26,Phuket flight,73,travel_intent,2024,5,21,Low
+2024-06-02,Phuket flight,61,travel_intent,2024,6,22,Low
+2024-06-09,Phuket flight,70,travel_intent,2024,6,23,Low
+2024-06-16,Phuket flight,73,travel_intent,2024,6,24,Low
+2024-06-23,Phuket flight,67,travel_intent,2024,6,25,Low
+2024-06-30,Phuket flight,75,travel_intent,2024,6,26,Low
+2024-07-07,Phuket flight,68,travel_intent,2024,7,27,Low
+2024-07-14,Phuket flight,72,travel_intent,2024,7,28,Low
+2024-07-21,Phuket flight,72,travel_intent,2024,7,29,Low
+2024-07-28,Phuket flight,70,travel_intent,2024,7,30,Low
+2024-08-04,Phuket flight,71,travel_intent,2024,8,31,Low
+2024-08-11,Phuket flight,74,travel_intent,2024,8,32,Low
+2024-08-18,Phuket flight,75,travel_intent,2024,8,33,Low
+2024-08-25,Phuket flight,69,travel_intent,2024,8,34,Low
+2024-09-01,Phuket flight,70,travel_intent,2024,9,35,Low
+2024-09-08,Phuket flight,67,travel_intent,2024,9,36,Low
+2024-09-15,Phuket flight,78,travel_intent,2024,9,37,Low
+2024-09-22,Phuket flight,68,travel_intent,2024,9,38,Low
+2024-09-29,Phuket flight,70,travel_intent,2024,9,39,Low
+2024-10-06,Phuket flight,70,travel_intent,2024,10,40,Low
+2024-10-13,Phuket flight,76,travel_intent,2024,10,41,Low
+2024-10-20,Phuket flight,69,travel_intent,2024,10,42,Low
+2024-10-27,Phuket flight,71,travel_intent,2024,10,43,Low
+2024-11-03,Phuket flight,81,travel_intent,2024,11,44,High
+2024-11-10,Phuket flight,92,travel_intent,2024,11,45,High
+2024-11-17,Phuket flight,93,travel_intent,2024,11,46,High
+2024-11-24,Phuket flight,83,travel_intent,2024,11,47,High
+2024-12-01,Phuket flight,76,travel_intent,2024,12,48,High
+2024-12-08,Phuket flight,78,travel_intent,2024,12,49,High
+2024-12-15,Phuket flight,81,travel_intent,2024,12,50,High
+2024-12-22,Phuket flight,91,travel_intent,2024,12,51,High
+2024-12-29,Phuket flight,100,travel_intent,2024,12,52,High
+2021-12-26,Phuket vacation,5,travel_intent,2021,12,51,High
+2022-01-02,Phuket vacation,4,travel_intent,2022,1,52,High
+2022-01-09,Phuket vacation,3,travel_intent,2022,1,1,High
+2022-01-16,Phuket vacation,4,travel_intent,2022,1,2,High
+2022-01-23,Phuket vacation,4,travel_intent,2022,1,3,High
+2022-01-30,Phuket vacation,2,travel_intent,2022,1,4,High
+2022-02-06,Phuket vacation,5,travel_intent,2022,2,5,High
+2022-02-13,Phuket vacation,3,travel_intent,2022,2,6,High
+2022-02-20,Phuket vacation,4,travel_intent,2022,2,7,High
+2022-02-27,Phuket vacation,3,travel_intent,2022,2,8,High
+2022-03-06,Phuket vacation,3,travel_intent,2022,3,9,High
+2022-03-13,Phuket vacation,5,travel_intent,2022,3,10,High
+2022-03-20,Phuket vacation,4,travel_intent,2022,3,11,High
+2022-03-27,Phuket vacation,4,travel_intent,2022,3,12,High
+2022-04-03,Phuket vacation,3,travel_intent,2022,4,13,High
+2022-04-10,Phuket vacation,4,travel_intent,2022,4,14,High
+2022-04-17,Phuket vacation,4,travel_intent,2022,4,15,High
+2022-04-24,Phuket vacation,4,travel_intent,2022,4,16,High
+2022-05-01,Phuket vacation,5,travel_intent,2022,5,17,Low
+2022-05-08,Phuket vacation,4,travel_intent,2022,5,18,Low
+2022-05-15,Phuket vacation,5,travel_intent,2022,5,19,Low
+2022-05-22,Phuket vacation,5,travel_intent,2022,5,20,Low
+2022-05-29,Phuket vacation,3,travel_intent,2022,5,21,Low
+2022-06-05,Phuket vacation,5,travel_intent,2022,6,22,Low
+2022-06-12,Phuket vacation,5,travel_intent,2022,6,23,Low
+2022-06-19,Phuket vacation,4,travel_intent,2022,6,24,Low
+2022-06-26,Phuket vacation,4,travel_intent,2022,6,25,Low
+2022-07-03,Phuket vacation,4,travel_intent,2022,7,26,Low
+2022-07-10,Phuket vacation,4,travel_intent,2022,7,27,Low
+2022-07-17,Phuket vacation,4,travel_intent,2022,7,28,Low
+2022-07-24,Phuket vacation,4,travel_intent,2022,7,29,Low
+2022-07-31,Phuket vacation,5,travel_intent,2022,7,30,Low
+2022-08-07,Phuket vacation,5,travel_intent,2022,8,31,Low
+2022-08-14,Phuket vacation,4,travel_intent,2022,8,32,Low
+2022-08-21,Phuket vacation,5,travel_intent,2022,8,33,Low
+2022-08-28,Phuket vacation,4,travel_intent,2022,8,34,Low
+2022-09-04,Phuket vacation,4,travel_intent,2022,9,35,Low
+2022-09-11,Phuket vacation,5,travel_intent,2022,9,36,Low
+2022-09-18,Phuket vacation,5,travel_intent,2022,9,37,Low
+2022-09-25,Phuket vacation,3,travel_intent,2022,9,38,Low
+2022-10-02,Phuket vacation,5,travel_intent,2022,10,39,Low
+2022-10-09,Phuket vacation,4,travel_intent,2022,10,40,Low
+2022-10-16,Phuket vacation,5,travel_intent,2022,10,41,Low
+2022-10-23,Phuket vacation,4,travel_intent,2022,10,42,Low
+2022-10-30,Phuket vacation,3,travel_intent,2022,10,43,Low
+2022-11-06,Phuket vacation,4,travel_intent,2022,11,44,High
+2022-11-13,Phuket vacation,4,travel_intent,2022,11,45,High
+2022-11-20,Phuket vacation,5,travel_intent,2022,11,46,High
+2022-11-27,Phuket vacation,4,travel_intent,2022,11,47,High
+2022-12-04,Phuket vacation,3,travel_intent,2022,12,48,High
+2022-12-11,Phuket vacation,5,travel_intent,2022,12,49,High
+2022-12-18,Phuket vacation,4,travel_intent,2022,12,50,High
+2022-12-25,Phuket vacation,5,travel_intent,2022,12,51,High
+2023-01-01,Phuket vacation,5,travel_intent,2023,1,52,High
+2023-01-08,Phuket vacation,5,travel_intent,2023,1,1,High
+2023-01-15,Phuket vacation,5,travel_intent,2023,1,2,High
+2023-01-22,Phuket vacation,5,travel_intent,2023,1,3,High
+2023-01-29,Phuket vacation,5,travel_intent,2023,1,4,High
+2023-02-05,Phuket vacation,5,travel_intent,2023,2,5,High
+2023-02-12,Phuket vacation,4,travel_intent,2023,2,6,High
+2023-02-19,Phuket vacation,5,travel_intent,2023,2,7,High
+2023-02-26,Phuket vacation,5,travel_intent,2023,2,8,High
+2023-03-05,Phuket vacation,5,travel_intent,2023,3,9,High
+2023-03-12,Phuket vacation,6,travel_intent,2023,3,10,High
+2023-03-19,Phuket vacation,4,travel_intent,2023,3,11,High
+2023-03-26,Phuket vacation,5,travel_intent,2023,3,12,High
+2023-04-02,Phuket vacation,5,travel_intent,2023,4,13,High
+2023-04-09,Phuket vacation,4,travel_intent,2023,4,14,High
+2023-04-16,Phuket vacation,4,travel_intent,2023,4,15,High
+2023-04-23,Phuket vacation,4,travel_intent,2023,4,16,High
+2023-04-30,Phuket vacation,4,travel_intent,2023,4,17,High
+2023-05-07,Phuket vacation,4,travel_intent,2023,5,18,Low
+2023-05-14,Phuket vacation,3,travel_intent,2023,5,19,Low
+2023-05-21,Phuket vacation,4,travel_intent,2023,5,20,Low
+2023-05-28,Phuket vacation,5,travel_intent,2023,5,21,Low
+2023-06-04,Phuket vacation,4,travel_intent,2023,6,22,Low
+2023-06-11,Phuket vacation,4,travel_intent,2023,6,23,Low
+2023-06-18,Phuket vacation,4,travel_intent,2023,6,24,Low
+2023-06-25,Phuket vacation,4,travel_intent,2023,6,25,Low
+2023-07-02,Phuket vacation,4,travel_intent,2023,7,26,Low
+2023-07-09,Phuket vacation,4,travel_intent,2023,7,27,Low
+2023-07-16,Phuket vacation,4,travel_intent,2023,7,28,Low
+2023-07-23,Phuket vacation,4,travel_intent,2023,7,29,Low
+2023-07-30,Phuket vacation,4,travel_intent,2023,7,30,Low
+2023-08-06,Phuket vacation,4,travel_intent,2023,8,31,Low
+2023-08-13,Phuket vacation,3,travel_intent,2023,8,32,Low
+2023-08-20,Phuket vacation,4,travel_intent,2023,8,33,Low
+2023-08-27,Phuket vacation,4,travel_intent,2023,8,34,Low
+2023-09-03,Phuket vacation,4,travel_intent,2023,9,35,Low
+2023-09-10,Phuket vacation,4,travel_intent,2023,9,36,Low
+2023-09-17,Phuket vacation,3,travel_intent,2023,9,37,Low
+2023-09-24,Phuket vacation,3,travel_intent,2023,9,38,Low
+2023-10-01,Phuket vacation,3,travel_intent,2023,10,39,Low
+2023-10-08,Phuket vacation,3,travel_intent,2023,10,40,Low
+2023-10-15,Phuket vacation,4,travel_intent,2023,10,41,Low
+2023-10-22,Phuket vacation,3,travel_intent,2023,10,42,Low
+2023-10-29,Phuket vacation,5,travel_intent,2023,10,43,Low
+2023-11-05,Phuket vacation,3,travel_intent,2023,11,44,High
+2023-11-12,Phuket vacation,3,travel_intent,2023,11,45,High
+2023-11-19,Phuket vacation,3,travel_intent,2023,11,46,High
+2023-11-26,Phuket vacation,3,travel_intent,2023,11,47,High
+2023-12-03,Phuket vacation,4,travel_intent,2023,12,48,High
+2023-12-10,Phuket vacation,3,travel_intent,2023,12,49,High
+2023-12-17,Phuket vacation,3,travel_intent,2023,12,50,High
+2023-12-24,Phuket vacation,4,travel_intent,2023,12,51,High
+2023-12-31,Phuket vacation,5,travel_intent,2023,12,52,High
+2024-01-07,Phuket vacation,5,travel_intent,2024,1,1,High
+2024-01-14,Phuket vacation,5,travel_intent,2024,1,2,High
+2024-01-21,Phuket vacation,5,travel_intent,2024,1,3,High
+2024-01-28,Phuket vacation,3,travel_intent,2024,1,4,High
+2024-02-04,Phuket vacation,4,travel_intent,2024,2,5,High
+2024-02-11,Phuket vacation,6,travel_intent,2024,2,6,High
+2024-02-18,Phuket vacation,5,travel_intent,2024,2,7,High
+2024-02-25,Phuket vacation,3,travel_intent,2024,2,8,High
+2024-03-03,Phuket vacation,5,travel_intent,2024,3,9,High
+2024-03-10,Phuket vacation,4,travel_intent,2024,3,10,High
+2024-03-17,Phuket vacation,5,travel_intent,2024,3,11,High
+2024-03-24,Phuket vacation,4,travel_intent,2024,3,12,High
+2024-03-31,Phuket vacation,4,travel_intent,2024,3,13,High
+2024-04-07,Phuket vacation,5,travel_intent,2024,4,14,High
+2024-04-14,Phuket vacation,5,travel_intent,2024,4,15,High
+2024-04-21,Phuket vacation,3,travel_intent,2024,4,16,High
+2024-04-28,Phuket vacation,5,travel_intent,2024,4,17,High
+2024-05-05,Phuket vacation,5,travel_intent,2024,5,18,Low
+2024-05-12,Phuket vacation,8,travel_intent,2024,5,19,Low
+2024-05-19,Phuket vacation,5,travel_intent,2024,5,20,Low
+2024-05-26,Phuket vacation,4,travel_intent,2024,5,21,Low
+2024-06-02,Phuket vacation,5,travel_intent,2024,6,22,Low
+2024-06-09,Phuket vacation,5,travel_intent,2024,6,23,Low
+2024-06-16,Phuket vacation,4,travel_intent,2024,6,24,Low
+2024-06-23,Phuket vacation,5,travel_intent,2024,6,25,Low
+2024-06-30,Phuket vacation,3,travel_intent,2024,6,26,Low
+2024-07-07,Phuket vacation,4,travel_intent,2024,7,27,Low
+2024-07-14,Phuket vacation,3,travel_intent,2024,7,28,Low
+2024-07-21,Phuket vacation,6,travel_intent,2024,7,29,Low
+2024-07-28,Phuket vacation,4,travel_intent,2024,7,30,Low
+2024-08-04,Phuket vacation,3,travel_intent,2024,8,31,Low
+2024-08-11,Phuket vacation,5,travel_intent,2024,8,32,Low
+2024-08-18,Phuket vacation,5,travel_intent,2024,8,33,Low
+2024-08-25,Phuket vacation,4,travel_intent,2024,8,34,Low
+2024-09-01,Phuket vacation,5,travel_intent,2024,9,35,Low
+2024-09-08,Phuket vacation,5,travel_intent,2024,9,36,Low
+2024-09-15,Phuket vacation,4,travel_intent,2024,9,37,Low
+2024-09-22,Phuket vacation,4,travel_intent,2024,9,38,Low
+2024-09-29,Phuket vacation,5,travel_intent,2024,9,39,Low
+2024-10-06,Phuket vacation,6,travel_intent,2024,10,40,Low
+2024-10-13,Phuket vacation,4,travel_intent,2024,10,41,Low
+2024-10-20,Phuket vacation,5,travel_intent,2024,10,42,Low
+2024-10-27,Phuket vacation,4,travel_intent,2024,10,43,Low
+2024-11-03,Phuket vacation,4,travel_intent,2024,11,44,High
+2024-11-10,Phuket vacation,5,travel_intent,2024,11,45,High
+2024-11-17,Phuket vacation,5,travel_intent,2024,11,46,High
+2024-11-24,Phuket vacation,4,travel_intent,2024,11,47,High
+2024-12-01,Phuket vacation,4,travel_intent,2024,12,48,High
+2024-12-08,Phuket vacation,6,travel_intent,2024,12,49,High
+2024-12-15,Phuket vacation,5,travel_intent,2024,12,50,High
+2024-12-22,Phuket vacation,7,travel_intent,2024,12,51,High
+2024-12-29,Phuket vacation,3,travel_intent,2024,12,52,High
